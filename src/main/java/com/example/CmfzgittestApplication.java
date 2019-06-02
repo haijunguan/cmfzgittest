@@ -10,6 +10,7 @@ public class CmfzgittestApplication {
         SpringApplication.run(CmfzgittestApplication.class, args);
         System.out.println();
         System.out.println("hehe...");
+        System.out.println();
     }
 
 }
