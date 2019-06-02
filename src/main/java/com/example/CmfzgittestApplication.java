@@ -8,6 +8,7 @@ public class CmfzgittestApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(CmfzgittestApplication.class, args);
+        System.out.println();
     }
 
 }
